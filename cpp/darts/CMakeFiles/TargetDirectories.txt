@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/darts/CMakeFiles/darts.dir
+/Users/dharma/projects/exercism/cpp/darts/CMakeFiles/test_darts.dir
+/Users/dharma/projects/exercism/cpp/darts/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/darts/CMakeFiles/rebuild_cache.dir
