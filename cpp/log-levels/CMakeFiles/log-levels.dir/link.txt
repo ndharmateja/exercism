@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/log-levels.dir/log_levels_test.cpp.o" "CMakeFiles/log-levels.dir/test/tests-main.cpp.o" -o log-levels

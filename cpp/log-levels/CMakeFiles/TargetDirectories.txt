@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/log-levels/CMakeFiles/log-levels.dir
+/Users/dharma/projects/exercism/cpp/log-levels/CMakeFiles/test_log-levels.dir
+/Users/dharma/projects/exercism/cpp/log-levels/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/log-levels/CMakeFiles/rebuild_cache.dir
