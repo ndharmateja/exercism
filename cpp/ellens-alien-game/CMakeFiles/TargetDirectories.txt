@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/ellens-alien-game/CMakeFiles/ellens-alien-game.dir
+/Users/dharma/projects/exercism/cpp/ellens-alien-game/CMakeFiles/test_ellens-alien-game.dir
+/Users/dharma/projects/exercism/cpp/ellens-alien-game/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/ellens-alien-game/CMakeFiles/rebuild_cache.dir
