@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/pacman-rules/CMakeFiles/pacman-rules.dir
+/Users/dharma/projects/exercism/cpp/pacman-rules/CMakeFiles/test_pacman-rules.dir
+/Users/dharma/projects/exercism/cpp/pacman-rules/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/pacman-rules/CMakeFiles/rebuild_cache.dir
