@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/vehicle-purchase/CMakeFiles/vehicle-purchase.dir
+/Users/dharma/projects/exercism/cpp/vehicle-purchase/CMakeFiles/test_vehicle-purchase.dir
+/Users/dharma/projects/exercism/cpp/vehicle-purchase/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/vehicle-purchase/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/vehicle-purchase.dir/vehicle_purchase_test.cpp.o" "CMakeFiles/vehicle-purchase.dir/vehicle_purchase.cpp.o" "CMakeFiles/vehicle-purchase.dir/test/tests-main.cpp.o" -o vehicle-purchase
