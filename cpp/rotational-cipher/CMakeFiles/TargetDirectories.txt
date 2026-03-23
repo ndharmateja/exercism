@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/rotational-cipher/CMakeFiles/rotational-cipher.dir
+/Users/dharma/projects/exercism/cpp/rotational-cipher/CMakeFiles/test_rotational-cipher.dir
+/Users/dharma/projects/exercism/cpp/rotational-cipher/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/rotational-cipher/CMakeFiles/rebuild_cache.dir
