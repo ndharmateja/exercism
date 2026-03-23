@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/allergies.dir/allergies_test.cpp.o CMakeFiles/allergies.dir/allergies.cpp.o "CMakeFiles/allergies.dir/test/tests-main.cpp.o" -o allergies
