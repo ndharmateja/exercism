@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/raindrops/CMakeFiles/raindrops.dir
+/Users/dharma/projects/exercism/cpp/raindrops/CMakeFiles/test_raindrops.dir
+/Users/dharma/projects/exercism/cpp/raindrops/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/raindrops/CMakeFiles/rebuild_cache.dir
