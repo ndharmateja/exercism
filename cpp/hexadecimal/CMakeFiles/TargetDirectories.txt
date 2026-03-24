@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/hexadecimal/CMakeFiles/hexadecimal.dir
+/Users/dharma/projects/exercism/cpp/hexadecimal/CMakeFiles/test_hexadecimal.dir
+/Users/dharma/projects/exercism/cpp/hexadecimal/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/hexadecimal/CMakeFiles/rebuild_cache.dir
