@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/trinary.dir/trinary_test.cpp.o CMakeFiles/trinary.dir/trinary.cpp.o "CMakeFiles/trinary.dir/test/tests-main.cpp.o" -o trinary
