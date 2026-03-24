@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/reverse-string/CMakeFiles/reverse-string.dir
+/Users/dharma/projects/exercism/cpp/reverse-string/CMakeFiles/test_reverse-string.dir
+/Users/dharma/projects/exercism/cpp/reverse-string/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/reverse-string/CMakeFiles/rebuild_cache.dir
