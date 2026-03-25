@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o" "CMakeFiles/making-the-grade.dir/test/tests-main.cpp.o" -o making-the-grade

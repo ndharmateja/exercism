@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/making-the-grade/CMakeFiles/making-the-grade.dir
+/Users/dharma/projects/exercism/cpp/making-the-grade/CMakeFiles/test_making-the-grade.dir
+/Users/dharma/projects/exercism/cpp/making-the-grade/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/making-the-grade/CMakeFiles/rebuild_cache.dir
