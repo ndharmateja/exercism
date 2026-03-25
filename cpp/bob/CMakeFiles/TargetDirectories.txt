@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/bob/CMakeFiles/bob.dir
+/Users/dharma/projects/exercism/cpp/bob/CMakeFiles/test_bob.dir
+/Users/dharma/projects/exercism/cpp/bob/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/bob/CMakeFiles/rebuild_cache.dir
