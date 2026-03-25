@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/eliuds-eggs/CMakeFiles/eliuds-eggs.dir
+/Users/dharma/projects/exercism/cpp/eliuds-eggs/CMakeFiles/test_eliuds-eggs.dir
+/Users/dharma/projects/exercism/cpp/eliuds-eggs/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/eliuds-eggs/CMakeFiles/rebuild_cache.dir
