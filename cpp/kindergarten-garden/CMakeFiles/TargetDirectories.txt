@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/kindergarten-garden/CMakeFiles/kindergarten-garden.dir
+/Users/dharma/projects/exercism/cpp/kindergarten-garden/CMakeFiles/test_kindergarten-garden.dir
+/Users/dharma/projects/exercism/cpp/kindergarten-garden/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/kindergarten-garden/CMakeFiles/rebuild_cache.dir
