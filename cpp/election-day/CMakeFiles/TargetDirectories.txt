@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/election-day/CMakeFiles/election-day.dir
+/Users/dharma/projects/exercism/cpp/election-day/CMakeFiles/test_election-day.dir
+/Users/dharma/projects/exercism/cpp/election-day/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/election-day/CMakeFiles/rebuild_cache.dir
