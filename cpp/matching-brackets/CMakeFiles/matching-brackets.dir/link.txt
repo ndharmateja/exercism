@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/matching-brackets.dir/matching_brackets_test.cpp.o" "CMakeFiles/matching-brackets.dir/matching_brackets.cpp.o" "CMakeFiles/matching-brackets.dir/test/tests-main.cpp.o" -o matching-brackets
