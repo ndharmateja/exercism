@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/high-scores/CMakeFiles/high-scores.dir
+/Users/dharma/projects/exercism/cpp/high-scores/CMakeFiles/test_high-scores.dir
+/Users/dharma/projects/exercism/cpp/high-scores/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/high-scores/CMakeFiles/rebuild_cache.dir
