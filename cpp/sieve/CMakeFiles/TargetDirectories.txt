@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/sieve/CMakeFiles/sieve.dir
+/Users/dharma/projects/exercism/cpp/sieve/CMakeFiles/test_sieve.dir
+/Users/dharma/projects/exercism/cpp/sieve/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/sieve/CMakeFiles/rebuild_cache.dir
