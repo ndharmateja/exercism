@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/simple-linked-list/CMakeFiles/simple-linked-list.dir
+/Users/dharma/projects/exercism/cpp/simple-linked-list/CMakeFiles/test_simple-linked-list.dir
+/Users/dharma/projects/exercism/cpp/simple-linked-list/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/simple-linked-list/CMakeFiles/rebuild_cache.dir

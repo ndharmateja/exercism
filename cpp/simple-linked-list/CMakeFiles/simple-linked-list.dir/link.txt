@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/simple-linked-list.dir/simple_linked_list_test.cpp.o" "CMakeFiles/simple-linked-list.dir/simple_linked_list.cpp.o" "CMakeFiles/simple-linked-list.dir/test/tests-main.cpp.o" -o simple-linked-list
