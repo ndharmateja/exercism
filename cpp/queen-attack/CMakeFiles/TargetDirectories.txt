@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/queen-attack/CMakeFiles/queen-attack.dir
+/Users/dharma/projects/exercism/cpp/queen-attack/CMakeFiles/test_queen-attack.dir
+/Users/dharma/projects/exercism/cpp/queen-attack/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/queen-attack/CMakeFiles/rebuild_cache.dir
