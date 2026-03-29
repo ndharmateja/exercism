@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/alphametics/CMakeFiles/alphametics.dir
+/Users/dharma/projects/exercism/cpp/alphametics/CMakeFiles/test_alphametics.dir
+/Users/dharma/projects/exercism/cpp/alphametics/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/alphametics/CMakeFiles/rebuild_cache.dir
