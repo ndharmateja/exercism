@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/lasagna-master/CMakeFiles/lasagna-master.dir
+/Users/dharma/projects/exercism/cpp/lasagna-master/CMakeFiles/test_lasagna-master.dir
+/Users/dharma/projects/exercism/cpp/lasagna-master/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/lasagna-master/CMakeFiles/rebuild_cache.dir
