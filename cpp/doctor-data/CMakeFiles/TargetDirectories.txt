@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/doctor-data/CMakeFiles/doctor-data.dir
+/Users/dharma/projects/exercism/cpp/doctor-data/CMakeFiles/test_doctor-data.dir
+/Users/dharma/projects/exercism/cpp/doctor-data/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/doctor-data/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/doctor-data.dir/doctor_data_test.cpp.o" "CMakeFiles/doctor-data.dir/doctor_data.cpp.o" "CMakeFiles/doctor-data.dir/test/tests-main.cpp.o" -o doctor-data
