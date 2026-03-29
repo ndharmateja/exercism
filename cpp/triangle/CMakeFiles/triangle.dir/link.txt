@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/triangle.dir/triangle_test.cpp.o CMakeFiles/triangle.dir/triangle.cpp.o "CMakeFiles/triangle.dir/test/tests-main.cpp.o" -o triangle
