@@ -10,13 +10,12 @@ TEST_CASE("newly_placed_queen_with_a_valid_position")
     const auto white = std::make_pair(2, 2);
     const auto black = std::make_pair(0, 3);
 
-    const queen_attack::chess_board{white, black};
+    const queen_attack::chess_board board{white, black};
 
     REQUIRE(white == board.white());
     REQUIRE(black == board.black());
 }
 
-#if defined(EXERCISM_RUN_ALL_TESTS)
 TEST_CASE("newly_placed_queen_must_have_positive_row")
 {
     const auto white = std::make_pair(-2, 2);
@@ -127,4 +126,6 @@ TEST_CASE(
 
     REQUIRE_FALSE(board.can_attack());
 }
+
+#if defined(EXERCISM_RUN_ALL_TESTS)
 #endif
