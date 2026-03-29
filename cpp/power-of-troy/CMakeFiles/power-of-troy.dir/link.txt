@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/power-of-troy.dir/power_of_troy_test.cpp.o" "CMakeFiles/power-of-troy.dir/power_of_troy.cpp.o" "CMakeFiles/power-of-troy.dir/test/tests-main.cpp.o" -o power-of-troy
