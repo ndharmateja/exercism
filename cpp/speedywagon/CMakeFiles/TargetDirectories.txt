@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/speedywagon/CMakeFiles/speedywagon.dir
+/Users/dharma/projects/exercism/cpp/speedywagon/CMakeFiles/test_speedywagon.dir
+/Users/dharma/projects/exercism/cpp/speedywagon/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/speedywagon/CMakeFiles/rebuild_cache.dir
