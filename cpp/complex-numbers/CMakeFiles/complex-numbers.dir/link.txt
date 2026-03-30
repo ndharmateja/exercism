@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/complex-numbers.dir/complex_numbers_test.cpp.o" "CMakeFiles/complex-numbers.dir/complex_numbers.cpp.o" "CMakeFiles/complex-numbers.dir/test/catch_amalgamated.cpp.o" "CMakeFiles/complex-numbers.dir/test/tests-main.cpp.o" -o complex-numbers
