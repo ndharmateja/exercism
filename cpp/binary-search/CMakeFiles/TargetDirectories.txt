@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/binary-search/CMakeFiles/binary-search.dir
+/Users/dharma/projects/exercism/cpp/binary-search/CMakeFiles/test_binary-search.dir
+/Users/dharma/projects/exercism/cpp/binary-search/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/binary-search/CMakeFiles/rebuild_cache.dir
