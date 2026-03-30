@@ -144,6 +144,9 @@ namespace linked_list
             {
                 delete_node(curr);
                 this->size--;
+
+                // Returning true right here is important as we don't want to be
+                // doing curr = curr->next on a deleted curr node
                 return true;
             }
         }
