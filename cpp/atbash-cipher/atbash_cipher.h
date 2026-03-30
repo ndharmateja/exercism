@@ -3,6 +3,6 @@
 
 namespace atbash_cipher
 {
-    std::string encode(std::string);
-    std::string decode(std::string);
+    std::string encode(const std::string &);
+    std::string decode(const std::string &);
 } // namespace atbash_cipher

@@ -4,20 +4,20 @@
 
 namespace atbash_cipher
 {
-    char find_complement_alphabet(char alphabet)
+    char find_complement_alphabet(unsigned char alphabet)
     {
-        short offset_from_start_of_alphabet = tolower(alphabet) - 'a';
+        int offset_from_start_of_alphabet = tolower(alphabet) - 'a';
         return 'z' - offset_from_start_of_alphabet;
     }
 
-    std::string encode(std::string plaintext)
+    std::string encode(const std::string &plaintext)
     {
         std::string ciphertext;
         int num_chars_added{0};
-        for (const char &c : plaintext)
+        for (const unsigned char c : plaintext)
         {
             if (isdigit(c))
-                ciphertext += c;
+                ciphertext.push_back(c);
             else if (isalpha(c))
                 ciphertext.push_back(find_complement_alphabet(c));
             else
@@ -30,13 +30,13 @@ namespace atbash_cipher
         // If the number of characters added is a multiple of 5
         // there would be an extra space at the end
         if (num_chars_added % 5 == 0)
-            return ciphertext.substr(0, ciphertext.length() - 1);
+            ciphertext.pop_back();
         return ciphertext;
     }
-    std::string decode(std::string ciphertext)
+    std::string decode(const std::string &ciphertext)
     {
         std::string plaintext;
-        for (const char &c : ciphertext)
+        for (const unsigned char c : ciphertext)
         {
             if (isalpha(c))
                 plaintext.push_back(find_complement_alphabet(c));
