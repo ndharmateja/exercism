@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/all-your-base/CMakeFiles/all-your-base.dir
+/Users/dharma/projects/exercism/cpp/all-your-base/CMakeFiles/test_all-your-base.dir
+/Users/dharma/projects/exercism/cpp/all-your-base/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/all-your-base/CMakeFiles/rebuild_cache.dir
