@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/robot-name/CMakeFiles/robot-name.dir
+/Users/dharma/projects/exercism/cpp/robot-name/CMakeFiles/test_robot-name.dir
+/Users/dharma/projects/exercism/cpp/robot-name/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/robot-name/CMakeFiles/rebuild_cache.dir
