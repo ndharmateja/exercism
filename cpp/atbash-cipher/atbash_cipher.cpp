@@ -29,7 +29,7 @@ namespace atbash_cipher
 
         // If the number of characters added is a multiple of 5
         // there would be an extra space at the end
-        if (num_chars_added % 5 == 0)
+        if (num_chars_added && num_chars_added % 5 == 0)
             ciphertext.pop_back();
         return ciphertext;
     }
