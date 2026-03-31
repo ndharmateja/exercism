@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/pascals-triangle/CMakeFiles/pascals-triangle.dir
+/Users/dharma/projects/exercism/cpp/pascals-triangle/CMakeFiles/test_pascals-triangle.dir
+/Users/dharma/projects/exercism/cpp/pascals-triangle/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/pascals-triangle/CMakeFiles/rebuild_cache.dir

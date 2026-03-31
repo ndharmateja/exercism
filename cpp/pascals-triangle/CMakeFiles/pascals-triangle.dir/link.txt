@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/pascals-triangle.dir/pascals_triangle_test.cpp.o" "CMakeFiles/pascals-triangle.dir/pascals_triangle.cpp.o" "CMakeFiles/pascals-triangle.dir/test/tests-main.cpp.o" -o pascals-triangle
