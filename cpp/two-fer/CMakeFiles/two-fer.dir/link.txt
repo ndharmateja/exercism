@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/two-fer.dir/two_fer_test.cpp.o" "CMakeFiles/two-fer.dir/two_fer.cpp.o" "CMakeFiles/two-fer.dir/test/tests-main.cpp.o" -o two-fer
