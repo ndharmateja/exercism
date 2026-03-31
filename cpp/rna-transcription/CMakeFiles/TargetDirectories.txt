@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/rna-transcription/CMakeFiles/rna-transcription.dir
+/Users/dharma/projects/exercism/cpp/rna-transcription/CMakeFiles/test_rna-transcription.dir
+/Users/dharma/projects/exercism/cpp/rna-transcription/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/rna-transcription/CMakeFiles/rebuild_cache.dir
