@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/isbn-verifier/CMakeFiles/isbn-verifier.dir
+/Users/dharma/projects/exercism/cpp/isbn-verifier/CMakeFiles/test_isbn-verifier.dir
+/Users/dharma/projects/exercism/cpp/isbn-verifier/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/isbn-verifier/CMakeFiles/rebuild_cache.dir

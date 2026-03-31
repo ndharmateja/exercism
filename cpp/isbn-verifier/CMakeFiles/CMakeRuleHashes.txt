@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+3701b269bf80305f5a99b9ed5532a791 CMakeFiles/test_isbn-verifier
