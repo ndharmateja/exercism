@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/series/CMakeFiles/series.dir
+/Users/dharma/projects/exercism/cpp/series/CMakeFiles/test_series.dir
+/Users/dharma/projects/exercism/cpp/series/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/series/CMakeFiles/rebuild_cache.dir
