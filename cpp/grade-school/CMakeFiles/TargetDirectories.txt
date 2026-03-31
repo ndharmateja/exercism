@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/grade-school/CMakeFiles/grade-school.dir
+/Users/dharma/projects/exercism/cpp/grade-school/CMakeFiles/test_grade-school.dir
+/Users/dharma/projects/exercism/cpp/grade-school/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/grade-school/CMakeFiles/rebuild_cache.dir

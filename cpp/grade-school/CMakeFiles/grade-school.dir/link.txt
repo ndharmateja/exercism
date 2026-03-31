@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/grade-school.dir/grade_school_test.cpp.o" "CMakeFiles/grade-school.dir/grade_school.cpp.o" "CMakeFiles/grade-school.dir/test/tests-main.cpp.o" -o grade-school
