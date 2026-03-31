@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/grains/CMakeFiles/grains.dir
+/Users/dharma/projects/exercism/cpp/grains/CMakeFiles/test_grains.dir
+/Users/dharma/projects/exercism/cpp/grains/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/grains/CMakeFiles/rebuild_cache.dir
