@@ -1,5 +1,6 @@
 #include "rna_transcription.h"
 #include <stdexcept>
+#include <algorithm>
 
 namespace rna_transcription
 {
@@ -22,8 +23,10 @@ namespace rna_transcription
 
     std::string to_rna(std::string input)
     {
-        for (auto &c : input)
-            c = to_rna(c);
+        std::transform(input.begin(), input.end(),
+                       input.begin(),
+                       [](char c)
+                       { return to_rna(c); });
         return input;
     }
 } // namespace rna_transcription
