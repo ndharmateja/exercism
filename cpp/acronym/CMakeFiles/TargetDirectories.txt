@@ -1,0 +1,4 @@
+/Users/dharma/projects/exercism/cpp/acronym/CMakeFiles/acronym.dir
+/Users/dharma/projects/exercism/cpp/acronym/CMakeFiles/test_acronym.dir
+/Users/dharma/projects/exercism/cpp/acronym/CMakeFiles/edit_cache.dir
+/Users/dharma/projects/exercism/cpp/acronym/CMakeFiles/rebuild_cache.dir
